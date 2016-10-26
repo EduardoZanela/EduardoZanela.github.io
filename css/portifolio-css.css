@@ -1,0 +1,33 @@
+.parallax-container {
+  height: 600px;
+  color: rgba(255,255,255,.9);
+}
+
+.mdi{
+  text-transform: none;
+  font-style: normal !important;
+}
+
+.text-shadow{
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+.hr-width{
+  width: 35%;
+}
+
+.justify-align{
+  text-align: justify;
+}
+
+.material-icons{
+  font-size: 3.56rem;
+}
+
+.parallax-small-image{
+  height: 250px;
+}
+
+.footer-copyright{
+  background-color: rgba(90, 90, 90, 0.8) !important;
+}
